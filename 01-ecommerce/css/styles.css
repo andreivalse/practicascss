@@ -256,3 +256,11 @@ img {
     margin: 0 auto;
 }
 
+.formulario fieldset {
+    border: 1px solid #000;
+
+}
+
+.formulario legend {
+    
+}
