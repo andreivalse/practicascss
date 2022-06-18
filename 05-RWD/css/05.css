@@ -1,3 +1,13 @@
 @media (min-width: 720px) { 
+    .oferta {
+        max-width: 40rem;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 800px) { 
+    .precio {
+        font-size: 3rem;
+    }
     
 }

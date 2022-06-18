@@ -1,0 +1,26 @@
+/* estandar de media queries */
+
+/* celular */
+@media (min-width: 500px) { 
+        
+}
+
+/* tablet  ipad */
+@media (min-width: 768) { 
+    
+}
+
+/* laptops */
+@media (min-width: 1024px) { 
+    
+}
+
+/* pantalla convenciona */
+@media (min-width: 1200px) { 
+    
+}
+
+/* pantalla grandes */
+@media (min-width: 1600px) { 
+    
+}
